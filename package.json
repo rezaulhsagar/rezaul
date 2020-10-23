@@ -1,0 +1,24 @@
+{
+  "name": "rezaul_hoque",
+  "version": "1.0.0",
+  "description": "Personal Website of Rezaul Hoque",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezaulhsagar/rezaul.git"
+  },
+  "author": "Nafisa Tasneem and Rezaul Hoque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rezaulhsagar/rezaul/issues"
+  },
+  "homepage": "https://github.com/rezaulhsagar/rezaul#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
