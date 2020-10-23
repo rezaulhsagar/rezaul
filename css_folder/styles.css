@@ -1,0 +1,15 @@
+.navbar-dark {
+    background-color: #f4f1ea;
+    
+}
+.bg-dark{
+    color:#7c7c74;
+}
+
+body{
+    padding:80px 0px 0px 0px;
+    z-index:0;
+    font-family: 'Fira Code', monospace;
+    background-color: #f4f1ea;
+    color: #7c7c74;
+}
