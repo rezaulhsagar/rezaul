@@ -13,12 +13,12 @@ body{
     z-index:0;
     font-family: 'Fira Code', monospace;
     /* background-color: #f4f1ea; */
-    color: #7c7c74;
+    color: #242323f3;
     text-align: justify;
     /* margin:auto; */
 }
 .alt-color{
-    background-color: #f4f1ea;
+    background-color: #f4f1ea;g
 }
 .center{
     margin:auto;
@@ -26,7 +26,7 @@ body{
 
 .row-content{
     margin: 0px auto;
-    padding: 50px 0px 50px 0px;
+    padding: 100px 0px 50px 0px;
     border-bottom: 1px ridge;
     min-height: 400px;
 }
