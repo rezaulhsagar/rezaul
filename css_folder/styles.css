@@ -1,15 +1,32 @@
-.navbar-dark {
+.navbar-light {
     background-color: #f4f1ea;
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.2);
     
 }
-.bg-dark{
-    color:#7c7c74;
+.text-dark{
+    color:white;
 }
+
 
 body{
     padding:80px 0px 0px 0px;
     z-index:0;
     font-family: 'Fira Code', monospace;
-    background-color: #f4f1ea;
+    /* background-color: #f4f1ea; */
     color: #7c7c74;
+    text-align: justify;
+    /* margin:auto; */
+}
+.alt-color{
+    background-color: #f4f1ea;
+}
+.center{
+    margin:auto;
+}
+
+.row-content{
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
 }
