@@ -11,7 +11,7 @@ body{
 header{
   background-color: #444444;
   background-repeat: no-repeat;
-  height: 93vh;
+  height: 100vh;
 }
 .navbar-dark {
     background-color: #f4f1ea;
@@ -29,5 +29,3 @@ header{
     border-bottom: 1px ridge;
     min-height: 400px;
 }
-
-
