@@ -9,7 +9,7 @@ body{
     text-align: justify;
 }
 header{
-  background-color: #444444;
+  background-image: url(back.png);
   background-repeat: no-repeat;
   height: 90vh;
   display: flex;
