@@ -9,8 +9,9 @@ body{
     text-align: justify;
 }
 header{
-  background-color: #444444;
+  background-image: url(back.png);
   background-repeat: no-repeat;
+  background-size: cover;
   height: 100vh;
 }
 .navbar-dark {
