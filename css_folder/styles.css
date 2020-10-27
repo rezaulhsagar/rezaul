@@ -3,7 +3,7 @@ html {
 }
 body{
     padding:0px 0px 0px 0px;
-    /* z-index:0; */
+    z-index:0;
     font-family: 'Palatino';
     color: #242323f3;
     text-align: justify;
@@ -11,17 +11,10 @@ body{
 header{
   background-image: url(back.png);
   background-repeat: no-repeat;
-  height: 90vh;
-  /* display: flex;
-  justify-content: center;
-  align-items: center; */
+  background-size: cover;
+  height: 100vh;
 }
-/* .centering-name{
-    padding: 100px 0px 50px 0px;
-
-} */
 .navbar-dark {
-    background-color: #f4f1ea;
     box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2);
 }
 .alt-color{
@@ -33,6 +26,6 @@ header{
 .row-content{
     margin: 0px auto;
     padding: 100px 0px 50px 0px;
-    border-bottom: 1px;
+    border-bottom: 1px ridge;
     min-height: 400px;
 }
