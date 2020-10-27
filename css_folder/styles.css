@@ -9,7 +9,7 @@ body{
     text-align: justify;
 }
 header{
-  background-image: url(back.png);
+  background-image: url(back1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -18,7 +18,7 @@ header{
     box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2);
 }
 .alt-color{
-    background-color: #f0eef2;
+    background-color: #ededed;
 }
 .center{
     margin:auto;
