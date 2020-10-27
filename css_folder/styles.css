@@ -12,9 +12,9 @@ header{
   background-image: url(back.png);
   background-repeat: no-repeat;
   height: 90vh;
-  display: flex;
+  /* display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center; */
 }
 /* .centering-name{
     padding: 100px 0px 50px 0px;
